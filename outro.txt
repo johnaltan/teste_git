@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ola
+=======
+Este teste
+>>>>>>> ce406f254b40870971aabba0e94f8a460e4f5987
